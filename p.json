@@ -1,0 +1,2 @@
+{"type": "SCHEMA", "stream": "ip", "schema": {"properties": {"ip": {"type": "string"}, "timestamp": {"type": "string", "format": "date-time"}}}, "key_properties": ["timestamp"]}
+{"type": "RECORD", "stream": "ip", "record": {"timestamp": "2020-02-13T09:46:34.239268+00:00", "ip": "223.90.141.186\n"}}
